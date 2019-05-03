@@ -1,4 +1,5 @@
 /autom4te.cache/
+/build/*
 /console/.deps/
 /console/.libs/
 /src/.deps/

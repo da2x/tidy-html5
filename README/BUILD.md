@@ -21,7 +21,7 @@ In Windows CMake offers various versions for MSVC. Again below only the command 
 
   1. `cd build/cmake`
 
-  2. `cmake ../.. -DCMAKE_BUILD_TYPE=Release [-DCMAKE_INSTALL_PREFIX=/path/for/install]`
+  2. `cmake ../ -DCMAKE_BUILD_TYPE=Release [-DCMAKE_INSTALL_PREFIX=/path/for/install]`
 
   3. Windows:  `cmake --build . --config Release`  
      Unix/OS X: `make`
